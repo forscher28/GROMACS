@@ -1,2 +1,2 @@
 # GROMACS
-This contains all the files used for the tutorial 1 i.e. Lysozyme in Water
+This contains all the input and output files used in  tutorial 1 i.e. Lysozyme in Water
